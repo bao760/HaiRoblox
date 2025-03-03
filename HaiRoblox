@@ -1,6 +1,6 @@
 Config = {
     namescript = "HaiRoblox",--Tên Script
     logoscript = "17862401940",--ID Logo Script
-    tacgia = "@HaiRoblox"-- Tên Tác Giả
+    tacgia = "HaiRoblox"-- Tên Tác Giả
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hairoblox123/BloxFruits/refs/heads/main/Source.lua"))()
