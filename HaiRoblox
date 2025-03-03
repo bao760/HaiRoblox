@@ -3,4 +3,4 @@ Config = {
     logoscript = "17862401940",--ID Logo Script
     tacgia = "@HaiRoblox"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hairoblox123/vesion/refs/heads/main/scriptbffree.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hairoblox123/BloxFruits/refs/heads/main/Source.lua"))()
